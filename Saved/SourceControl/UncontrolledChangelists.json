@@ -5,6 +5,13 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/Epic/UE_Projects/Git_UE/UE_Project/Content/Blueprints/Input/IA_Move.uasset",
+				"D:/Epic/UE_Projects/Git_UE/UE_Project/Content/Blueprints/Player_Controller.uasset",
+				"D:/Epic/UE_Projects/Git_UE/UE_Project/Content/Blueprints/Input/IA_Crouch.uasset",
+				"D:/Epic/UE_Projects/Git_UE/UE_Project/Content/Blueprints/Input/IMC_TopDown.uasset",
+				"D:/Epic/UE_Projects/Git_UE/UE_Project/Content/Blueprints/TD_Character.uasset",
+				"D:/Epic/UE_Projects/Git_UE/UE_Project/Content/Levels/1st_Level.umap",
+				"D:/Epic/UE_Projects/Git_UE/UE_Project/Content/Blueprints/Game_Mode_Base.uasset",
 				"D:/Epic/UE_Projects/Project/Control_Test/Content/Levels/1st_Level.umap",
 				"D:/Epic/UE_Projects/Project/Control_Test/Content/Characters/Mannequins/Anims/Rifle/Walk/MF_Rifle_Walk_Bwd.uasset",
 				"D:/Epic/UE_Projects/Project/Control_Test/Content/Characters/Mannequins/Anims/Rifle/Walk/MF_Rifle_Walk_Fwd.uasset",
